@@ -2,12 +2,12 @@
   "name": "nodeb",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "sever": "nodemon server.js",
+    "server": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "front": "cd frontreact0 && npm start",
-    "start": "concurrently --kill-other-on-fail \"npm run server\" \"npm rum front\""
+    "start": "concurrently --kill-other-on-fail \"npm run server\" \"npm run front\""
   },
   "keywords": [],
   "author": "",

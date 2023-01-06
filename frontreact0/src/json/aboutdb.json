@@ -1,0 +1,59 @@
+{
+  "aboutDB" : 
+  [{
+    "toolsLang" : "HTML/CSS",
+    "level" : "100%",
+    "cls" : "skillHtml",
+    "icon" : "iconHtml",
+    "bg" : ""
+  },
+  {
+    "toolsLang" : "PHTOSHOP/ILLUSTRATOR",
+    "level" : "100%",
+    "cls" : "skillPhto",
+    "icon" : "iconPhto",
+    "bg" : ""
+  },
+  {
+    "toolsLang" : "JAVASCRIPT/jQuery",
+    "level" : "100%",
+    "cls" : "skillJava",
+    "icon" : "iconJava",
+    "bg" : ""
+  },
+  {
+    "toolsLang" : "BOOTSTRAP",
+    "level" : "100%",
+    "cls" : "skillBoot",
+    "icon" : "iconBoot",
+    "bg" : ""
+  },
+  {
+    "toolsLang" : "FIGMA",
+    "level" : "100%",
+    "cls" : "skillFigma",
+    "icon" : "iconFigma",
+    "bg" : ""
+  },
+  {
+    "toolsLang" : "GITHUB",
+    "level" : "100%",
+    "cls" : "skillGit",
+    "icon" : "iconGit",
+    "bg" : ""
+  },
+  {
+    "toolsLang" : "REACT",
+    "level" : "100%",
+    "cls" : "skillReact",
+    "icon" : "iconReact",
+    "bg" : ""
+  },
+  {
+    "toolsLang" : "PHP/SQl",
+    "level" : "100%",
+    "cls" : "skillSir",
+    "icon" : "iconSir",
+    "bg" : ""
+  }]
+}

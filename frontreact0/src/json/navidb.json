@@ -1,0 +1,19 @@
+{ "naviDB" : 
+[{
+    "naviText" : "포트폴리오",
+    "naviLink" : "#portfolio"
+  },
+  {
+    "naviText" : "봄날의 지니",
+    "naviLink" : "#aboutMe"
+                  },
+  {
+    "naviText" : "사전인터뷰",
+    "naviLink" : "#preInterview"
+  },
+  {
+    "naviText" : "면접제안",
+    "naviLink" : "#contact"
+  }
+  ]
+}
